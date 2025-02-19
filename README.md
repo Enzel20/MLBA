@@ -1,6 +1,6 @@
 # Enzel Viana Sembiring
 
-![](dog.jpeg)
+![](dog.jpg)
 
 # Purpose
 
