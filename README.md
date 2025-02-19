@@ -7,7 +7,7 @@ Looking for junior data analyst position in healthcare indstury
 # Education
 
 - Tunghai University
- - IBA
+    - IBA
 - NCHU
 
 
