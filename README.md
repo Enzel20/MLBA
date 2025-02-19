@@ -15,3 +15,11 @@ Looking for junior data analyst position in healthcare indstury
 
 - International Conference International College
 
+# Skills
+- Problem Solving
+- Organizational Management
+- Team Leadership
+- Survey Methodology
+- Financial Planning
+- Teamwork
+- Marketing Management
