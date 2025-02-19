@@ -1,5 +1,7 @@
 # Enzel Viana Sembiring
-![](cute dog.jpg)
+
+![](dog.jpeg)
+
 # Purpose
 
 Looking for junior data analyst position in healthcare indstury
